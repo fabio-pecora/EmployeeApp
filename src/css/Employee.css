@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+.customCard {
+    background-color: rgb(129, 203, 246);
+}
+
+.center {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
+.color1 {
+    background-color: rgb(158, 219, 255);
+}
+
+.color2{
+    background-color: rgb(190, 228, 250);
+}
+
+.color3{
+    background-color: rgb(255, 255, 255);
+}
+
+.rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+.hisWidth {
+    width: 250px;
+}
